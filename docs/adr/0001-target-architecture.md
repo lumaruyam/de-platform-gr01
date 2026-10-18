@@ -2,7 +2,7 @@
 
 - **Status:** proposed
 - **Date:** 2026-10-18
-- **Author:** Luli
+- **Author:** Luli MARUYAMA
 - **Lesson:** L01
 
 ## Context
