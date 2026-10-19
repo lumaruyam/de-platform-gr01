@@ -16,10 +16,10 @@ the end of the course it holds the platform your group defends orally:
 
 | Name | GitHub | Role |
 |---|---|---|
-| | | |
-| | | |
-| | | |
-| | | |
+| Mehria Rania | raniamehria | Architecture Lead |
+| Maruyama Luli | lumaruyam | Data Modeling & Transformation Lead |
+| Hung Wei-Ling | whung99 | Ingestion & Platform Engineer |
+| Sanchez Chanelle | csanchez-cyber | Warehouse & FinOps Engineer |
 
 ## How this repo grows
 
