@@ -1,1 +1,38 @@
+# Secrets: never commit these
+.env
+.env.*
+!.env.example
+*-key.json
+*credentials*.json
+service-account*.json
+
+# Local data
+data/
+*.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# dbt
+dbt/target/
+dbt/dbt_packages/
+dbt/logs/
+
+# Terraform (the .terraform.lock.hcl file is committed on purpose)
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+!*.tfvars.example
+
+# Airflow
+orchestration/logs/
+
+# Editors and OS
+.idea/
 .DS_Store
+Thumbs.db

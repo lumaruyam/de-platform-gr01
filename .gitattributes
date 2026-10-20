@@ -1,0 +1,9 @@
+# Normalise line endings, so scripts and Dockerfiles behave the same on
+# Windows, macOS and Linux.
+* text=auto eol=lf
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+
+*.png binary
+*.jpg binary
+*.pdf binary
